@@ -1,4 +1,4 @@
 # MemoryGame
 Práctica 1 - DVI
 
-Play: https://migueljiro.github.io/Juego-de-memoria/
+Play: https://migueljiro.github.io/MemoryGame/
